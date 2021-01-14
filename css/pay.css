@@ -1,0 +1,15 @@
+body {
+  background-color: var(--black-color);
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.contend-pay {
+  color: var(--white-color);
+  font-size: 16px;
+}
+.contend-pay a {
+  color: var(--green-color);
+}
